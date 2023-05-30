@@ -1,1 +1,1 @@
-# JS_webinar
+# Wordpress_courses
